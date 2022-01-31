@@ -1,0 +1,90 @@
+/*------CSS PDF-----------*/
+
+
+
+
+.pdf-titulo{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    color: black;
+    margin-bottom: 1rem
+}
+
+.cabecera{
+    font-size: 15px;
+    background-color: #57a39d;
+
+}
+.pol{
+    font-size: 15px;
+    background-color: #a0d8d3;
+
+}
+.celdas{
+    font-size: 14px;
+    text-transform: uppercase;
+
+}
+
+.titulo{
+    width: 100%;
+    margin-top: 1rem;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: #adb5bd;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+
+}
+
+
+  table {
+    width: 100%;
+    text-align: center;
+    border:solid 1px 1px 1px 1px;
+    border-collapse: collapse;
+  }
+  tbody{
+    border: solid 1px;
+    }
+td{
+  border-bottom: solid 1px;
+}
+  /*
+  thead{
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid;
+  }
+  tbody{
+    width: 100%;
+    text-align: center; 
+     
+  }
+  th{
+      border: solid 1px;
+  } */
+.total-veh{
+    margin-top: 1rem;
+    border: solid 1px;
+ }
+
+.total-body{
+    background-color: #adb5bd;
+}
+.alert.alert-danger {
+  background-color: #fc544b;
+}
+.alert {
+  color: #fff;
+  border: none;
+  padding: 15px 20px;
+}
+
+
+
